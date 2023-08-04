@@ -1,5 +1,3 @@
-# Bharatintern_task2
-
 <h1 align="center">
   <a href="# Project Management Tool"></a>
   Project Management Tool
